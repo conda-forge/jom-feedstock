@@ -1,6 +1,6 @@
 {% set name = "jom" %}
-{% set version = "1.1.4" %}
-{% set sha256 = "d533c1ef49214229681e90196ed2094691e8c4a0a0bef0b2c901debcb562682b" %}
+{% set version = "1.1.6" %}
+{% set sha256 = "e480a22a99fc41d6afbe1b27faf34b3b9dad76ca40095179614605c3fbff637f" %}
 
 package:
   name: {{ name|lower }}
